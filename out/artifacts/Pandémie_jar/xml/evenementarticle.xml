@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<evenementsarticle>
+	
+	<Facile>
+	
+		<evenement>
+		
+			<nom>La panne des machines !</nom>
+            <description>Nous apprenons à l'instant que toutes les machines à café de l'UTBM sont tombées 
+en panne pour une mystérieuse raison. Mais pas de panique ! Une entreprise devrait 
+venir nous dépanner prochainement. En attendant, nous devons rester forts.
+            </description>
+            <moral>-4</moral>
+            <efficacite>-1</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Jour férié</nom>
+            <description>Comme vous le savez tous, demain sera un jour férié.
+Il est donc strictement interdit de travailler sur les projets.
+Toute suspiscion sera fortement punie.
+            </description>
+            <moral>2</moral>
+            <efficacite>-3</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Coupure de courant</nom>
+            <description>Pour des travaux de maintenance, l'électricité sera coupé
+dans différents bâtiments. Pour les curieux, le mail reçu
+contient les heures précises.
+            </description>
+            <moral>0</moral>
+            <efficacite>-10</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Alerte Virus !</nom>
+            <description>Un malicieux virus s'est introduit dans nos réseaux et cause beaucoup
+de soucis sur notre matériel informatique. Pour plus de sécurité, il est
+recommandé de travailler avec votre propre matériel jusqu'à réparation.
+            </description>
+            <moral>0</moral>
+            <efficacite>-4</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+			<nom>Remise des diplômes !</nom>
+            <description>La remise des diplômes s'est très bien passée. Les étudiants en ont profité
+pour échanger et apprendre beaucoup. Ils ont par exemple pu poser des questions à
+leurs aînés pour leurs tâches. Grâce à cela, ils sont confiants et remotivés.
+            </description>
+            <moral>4</moral>
+            <efficacite>0</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    
+    	<evenement>
+    	
+    		<nom>Trophée de la meilleure école</nom>
+            <description>Nous sommes fiers de vous annoncer que pour la dixième année de suite,
+l'UTBM est le lauréat du concours "La Meilleure École au Monde". Merci à vous !
+            </description>
+            <moral>2</moral>
+            <efficacite>0</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Visite de la BU</nom>
+            <description>Tous les départements de l'UTBM sont invités à venir découvrir
+le fonctionnement de la BU. Un planning vous a été envoyé par mail.
+            </description>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Grèves</nom>
+            <description>Suite aux réformes sur l'éducation, une partie du 
+personnel sera absent demain. 
+            </description>
+            <moral>2</moral>
+            <efficacite>-3</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Voyage voyage</nom>
+            <description>Une visite de laboratoires et d'entreprises du territoire 
+aura lieu prochainement. Vous devez vous inscrire à au moins une visite.
+Plus d'informations dans le mail envoyé.
+            </description>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>1</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Alarmes incendies</nom>
+            <description>Hier, toutes les alarmes incendies de l'UTBM se sont affolées 
+empêchant le bon fonctionnement de l'établissement. Pour le moment,
+la seule solution a été de les débrancher.
+            </description>
+            <moral>0</moral>
+            <efficacite>-2</efficacite>
+            <temps>1</temps>
+            
+        </evenement>
+        
+        <evenement>
+    	
+    		<nom>Absences</nom>
+            <description>Du fait de formations ou de conférences, une partie du corps 
+enseignant sera absent demain. Plus d'infos sur Zimbra.
+            </description>
+            <moral>4</moral>
+            <efficacite>-5</efficacite>
+            <temps>1</temps>
+            
+        </evenement>
+        
+        <evenement>
+    	
+    		<nom>Journée portes ouvertes</nom>
+            <description>La journée portes ouvertes c'est demain. Vous êtes fortement
+encouragés à venir faire découvrir l'établissement et échanger.
+            </description>
+            <moral>3</moral>
+            <efficacite>0</efficacite>
+            <temps>1</temps>
+            
+        </evenement>
+        
+        <evenement>
+    	
+    		<nom>Météo capricieuse</nom>
+            <description>Compte tenu des pluies diluviennes qui s'abattent depuis quelques jours
+sur Belfort, rendant la circulation très difficile, il a été décidé de suspendre
+les cours jusqu'à un retour à la normal (après-demain d'après Météo France)
+            </description>
+            <moral>-5</moral>
+            <efficacite>-4</efficacite>
+            <temps>1</temps>
+            
+        </evenement>
+        
+        <evenement>
+		
+			<nom>FIMU</nom>
+            <description>En ces beaux jours, la nouvelle édition du FIMU se prépare.
+Comme chaque année, ce sera l'occasion d'écouter de la bonne musique un verre
+à la main. Plus d'informations dans notre édition à venir.
+            </description>
+            <moral>3</moral>
+            <efficacite>0</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Un projet récompensé</nom>
+            <description>C'est la surprise ! Par on ne sait quel moyen, la région
+a eu vent du projet ainsi que de ses travaux et a décidé de récompenser
+les élèves pour leur travail.
+            </description>
+            <moral>3</moral>
+            <efficacite>3</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Grève des transports</nom>
+            <description>Pour contester l'augmentation des embouteillages en ville,
+les chauffeurs de bus Optymo ont décidé de faire une grève d'un jour. 
+Tronquez donc le bus pour le vélo et tout roulera !
+            </description>
+            <moral>-6</moral>
+            <efficacite>-5</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Coupure d'eau</nom>
+            <description>Aujourd'hui, une coupure d'eau généralisée à l'UTBM sera effectuée
+de 8h à 19h en raison de travaux de rénovation des sanitaires. Merci de votre
+compréhension.
+            </description>
+            <moral>-7</moral>
+            <efficacite>-5</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Cirque</nom>
+            <description>Le Cirque Zavatta est arrivé en ville et s'est installé sur le 
+parking de l'UTBM. Vous n'avez aucune raison de ne pas aller voir
+le spectable des frères Clownesques !
+            </description>
+            <moral>1</moral>
+            <efficacite>-2</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Matrix IV</nom>
+            <description>C'est le moment de retourner dans la matrice (même si vous 
+n'aimez pas les maths) car Néo est de retour pour un nouvel épisode 
+encore plus déjanté !
+            </description>
+            <moral>2</moral>
+            <efficacite>-3</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Sortie de GTA VII</nom>
+            <description>Le nouvel opus du célèbre titre produit par Rockstar Games 
+est dans les bacs ! Selon les critiques, le réalisme permit par le support 
+de la réalité virtuelle est inimaginable ! Bonne aventure !
+            </description>
+            <moral>4</moral>
+            <efficacite>-4</efficacite>
+            <temps>1</temps>
+            
+		</evenement>
+	
+	</Facile>
+	
+	<Moyen>
+	
+		<evenement>
+		
+			<nom>La panne des machines !</nom>
+            <description>Les machines à café sont de nouveau tombées 
+en panne. Il semblerait que le hasard s'acharne contre nous. Nous renouvellons
+notre confiance à CofeeMachine pour nous sortir de là. Affaire à suivre.
+            </description>
+            <moral>-6</moral>
+            <efficacite>0</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Vacances (une semaine)</nom>
+            <description>Je vous souhaite d'agréables vacances. Pour rappel,
+les locaux seront fermés durant cette période. Profitez bien de cette 
+période.
+            </description>
+            <moral>4</moral>
+            <efficacite>-5</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Quand Zimbra s'emmêle les pinceaux</nom>
+            <description>Pendant toute la journée d'hier, Zimbra a perdu la tête.
+En effet, elle s'est mise à supprimer, envoyer au mauvais destinataire, etc...
+D'après nos experts, les perturbations devraient continuer aujourd'hui.
+            </description>
+            <moral>-5</moral>
+            <efficacite>-7</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Alerte Virus !</nom>
+            <description>Malgré notre protection renforcée, un second virus sévit sur le 
+système informatique de l'établissement. Utilisez votre propre matériel.
+D'autres mesures de précaution vous seront envoyées par mail.
+            </description>
+            <moral>0</moral>
+            <efficacite>-7</efficacite>
+            <temps>2</temps>
+            
+    	</evenement>
+    	
+		<evenement>
+		
+    		<nom>Renforcement BU</nom>
+            <description>Pour l'épanouissement de la connaissance, la BU a largement
+renforcé la gamme de ses livres. Certains ont déjà la tête plongé dedans.
+            </description>
+            <moral>0</moral>
+            <efficacite>4</efficacite>
+            <temps>2</temps>
+            
+    	</evenement>
+    	
+        <evenement>
+        
+    		<nom>Grèves</nom>
+            <description>Suite à l'échec des négociations lors de la dernière 
+manifestation, l'UTBM sera en partie fermé durant deux jours.
+            </description>
+            <moral>5</moral>
+            <efficacite>-5</efficacite>
+            <temps>2</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Voyage voyage</nom>
+            <description>Un voyage de deux jours est à Paris aura lieu prochainement.
+Le Louvre et La Cité des Sciences et de l'Industrie seront les principaux
+points de chute.
+            </description>
+            <moral>4</moral>
+            <efficacite>4</efficacite>
+            <temps>2</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Conférences</nom>
+            <description>C'est une chance. L'expert mondial, M. Expert en personne
+donnera une série de conférences dans notre établissement. Plus d'informations
+dans le PDF envoyé par mail.
+            </description>
+            <moral>0</moral>
+            <efficacite>4</efficacite>
+            <temps>2</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Absences</nom>
+            <description>Du fait de formations ou de conférences, une partie du corps 
+enseignant sera absent trois jours. Plus d'infos sur Zimbra.
+            </description>
+            <moral>5</moral>
+            <efficacite>-4</efficacite>
+            <temps>3</temps>
+            
+        </evenement>
+        
+        <evenement>
+    	
+    		<nom>Météo capricieuse</nom>
+            <description>Il a neigé 30 cm cette nuit et Belfort est complètement bloqué.
+De plus, on a annonce encore de fortes chutes de neige jusqu'à jeudi !
+Pour ces raisons, les cours sont suspendus jusqu'à ce jour.
+            </description>
+            <moral>3</moral>
+            <efficacite>-4</efficacite>
+            <temps>3</temps>
+            
+        </evenement>
+        
+        <evenement>
+		
+			<nom>FIMU</nom>
+            <description>Voilà, le FIMU c'est à partir d'aujourd'hui et
+que le programme est génial ! On va attend dans les rues !
+            </description>
+            <moral>5</moral>
+            <efficacite>-3</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+	
+	    <evenement>
+		
+			<nom>Un projet attendu</nom>
+            <description>Voilà le projet avance et commence à faire parler de lui si bien que l'
+Etat va récompenser l'établissement dans son ensemble pour son travail.
+M. Professeur, à l'origine du projet, nous a avoué, qu'il ne s'attendait
+pas à de telles retombées.
+            </description>
+            <moral>5</moral>
+            <efficacite>3</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Grève des transports</nom>
+            <description>Pas de transport à Belfort en cette fin de semaine à cause 
+des manifestations contre le retard des bus, des trains et des taxis. Elles
+ont engendré des dégâts matériels et causé la colère des professionnels.
+            </description>
+            <moral>-7</moral>
+            <efficacite>-7</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Coupure d'eau</nom>
+            <description>La moitiée de Belfort est victime d'une coupure d'eau depuis
+deux jours. En effet, suite aux résultats alarmants de la qualité de celle-ci, 
+une partie du réseau est fermé le temps d'un retour à la normal.
+            </description>
+            <moral>-7</moral>
+            <efficacite>-4</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Louis de Funès</nom>
+            <description>M6 rediffuse les grandes réussites de Louis de Funès 
+durant 3 jours ! Ce serait un sacrilège de ne pas y jeter un coup d'oeil !
+            </description>
+            <moral>4</moral>
+            <efficacite>-3</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Sortie de Harry Potter VIII</nom>
+            <description>Le nouvel opus de la saga Harry Potter est arrivé ! Sorti 
+d'un chapeau par on ne sait quel enchantement, on vous jure qu'il
+va vous éblouir !
+            </description>
+            <moral>4</moral>
+            <efficacite>-3</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Foudre</nom>
+            <description>La foudre s'est abattue hier sur le Bâtiment Z de l'UTBM et 
+a grillé une bonne partie du matériel, compromettant les projets. Les 
+choses rentreront bientôt dans l'ordre
+            </description>
+            <moral>-6</moral>
+            <efficacite>-4</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Soldes Steam</nom>
+            <description>Avis aux amateurs, les soldes Steam ont débutés hier et 
+une fois n'est pas coutume, les prix sont vraiment attrayants ! On
+vous a concocté une liste aux petits ognons ! (cf. Zimbra)
+            </description>
+            <moral>5</moral>
+            <efficacite>-4</efficacite>
+            <temps>2</temps>
+            
+		</evenement>
+		
+	</Moyen>
+
+	<Avancee>
+	
+		<evenement>
+		
+			<nom>La panne des machines !</nom>
+            <description>Trop c'est trop. Après des pannes répétées, de nouvelles machines
+à café élaborées, testées et approuvées par nos laboratoires secrets seront
+déployées prochainement pour contrer ce fléau dont nous sommes victimes.
+            </description>
+            <moral>-8</moral>
+            <efficacite>0</efficacite>
+            <temps>3</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Vacances (deux semaines)</nom>
+            <description>Je vous souhaite d'agréables vacances. Pour rappel,
+les locaux seront fermés durant cette période. Profitez bien de cette 
+période.
+            </description>
+            <moral>6</moral>
+            <efficacite>-6</efficacite>
+            <temps>4</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>L'Espace UTBM est cassé !</nom>
+            <description>Adieu cours en ligne, mails via Zimbra et espace de stockage en ligne !
+L'UTBM ayant oublié de renouveler le nom de domaine, quelqu'un a sauté
+sur l'occasion. Nos meilleurs négociateurs sont sur le coup.
+            </description>
+            <moral>-8</moral>
+            <efficacite>-5</efficacite>
+            <temps>4</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Alerte Virus !</nom>
+            <description>L'heure est à la panique ! Un virus (cf. notre édition n°44a)
+s'annonce plus difficile à combattre et se répand très vite. Certains étudiants 
+voient leur propre matériel corrompu pour des raisons qu'ils 
+n'arrivent pas à expliquer.
+            </description>
+            <moral>-10</moral>
+            <efficacite>-10</efficacite>
+            <temps>4</temps>
+            
+    	</evenement>
+    	
+   		<evenement>
+   		
+    		<nom>Incendie</nom>
+            <description>Suite à une expérience qui a mal tournée, un incendie a ravagé 
+le bâtiment O. Jusqu'à sa reconstruction, il va falloir chambouler l'organisation.
+            </description>
+            <moral>0</moral>
+            <efficacite>-5</efficacite>
+            <temps>5</temps>
+            
+    	</evenement>
+    	
+       <evenement>
+       
+    		<nom>La BU vous ouvre ses portes</nom>
+            <description>Après de grands travaux de rénovation, c'est une BU moderne avec
+pléthore de ressources qui ouvre ces portes. Allez jeter un coup d'oeil,
+ça vaut le détour ! 
+            </description>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>4</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Grèves</nom>
+            <description>Les précédents échecs de négociation
+ont donné lieu à des émeutes. L'Etat a accepté de discuter.
+Le temps que le corps enseignant se stabilise à nouveau, l'UTBM sera fermé. 
+            </description>
+            <moral>6</moral>
+            <efficacite>-6</efficacite>
+            <temps>4</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Voyage voyage</nom>
+            <description>Un voyage aux Etats-Unis est prévu pour bientôt.
+Au programme : musées, visites de campus, visites de laboratoires, etc...
+            </description>
+            <moral>7</moral>
+            <efficacite>7</efficacite>
+            <temps>5</temps>
+            
+    	</evenement>
+    	
+    	<evenement>
+    	
+    		<nom>Conférences</nom>
+            <description>Suite au succès de la dernière fois (cf. notre éditon n°66c),
+M. Expert est de retour avec des collègues ! Plus d'infos sur les conférences
+dans le PDF sur Zimbra.
+            </description>
+            <moral>0</moral>
+            <efficacite>8</efficacite>
+            <temps>4</temps>
+            
+    	</evenement>
+    
+    	<evenement>
+    	
+    		<nom>Absences</nom>
+            <description>Du fait de formations ou de conférences, une partie du corps 
+enseignant sera absent cette semaine. Plus d'infos sur Zimbra.
+            </description>
+            <moral>5</moral>
+            <efficacite>-10</efficacite>
+            <temps>5</temps>
+            
+        </evenement>
+	
+		<evenement>
+    	
+    		<nom>Météo capricieuse</nom>
+            <description>On nous annonce une tempête tropicale (sans doute une conséquence
+du réchauffement climatique) pour la semaine. Pour cette raison, les cours sont
+annulés. Vous pouvez retrouver les mesures de sécurité dans le mail envoyé.
+            </description>
+            <moral>-10</moral>
+            <efficacite>-5</efficacite>
+            <temps>5</temps>
+            
+     	</evenement>
+     	
+     	<evenement>
+		
+			<nom>L'accomplissement</nom>
+            <description>La fin du projet est plus proche que jamais ! Récompensé 
+dernièrement par la région puis par l'Etat, l'UTBM s'est vu remettre 
+un prix nobel pour ses "travaux précursseurs"
+            </description>
+            <moral>5</moral>
+            <efficacite>6</efficacite>
+            <temps>5</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Grève des transports</nom>
+            <description>Bus, Taxis, Trains, ... ! Tous les transports sont entrés en grève 
+contre le projet de "Taxe par Kilomètre" du gouvernement. Une liste
+de conseils et astuces pour voyager vous a été envoyée sur Zimbra.
+            </description>
+            <moral>-7</moral>
+            <efficacite>-8</efficacite>
+            <temps>4</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Coupure d'eau</nom>
+            <description>Alors que les résultats étaient revenus normaux,
+la qualité de l'eau a drastiquement chuté. C'est un désastre sanitaire.
+Le temps de l'enquête et de changements, l'eau est coupé à Belfort.
+            </description>
+            <moral>-9</moral>
+            <efficacite>-7</efficacite>
+            <temps>5</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Kev Adams</nom>
+            <description>Kev Adams, le jeune humouriste va être en spectacle à
+Belfort cette semaine. C'est le moment d'aller rigoler un bon coup !
+            </description>
+            <moral>-10</moral>
+            <efficacite>0</efficacite>
+            <temps>5</temps>
+            
+		</evenement>
+		
+		<evenement>
+		
+			<nom>Sortie de Star Wars VIII</nom>
+            <description>C'est cette semaine que sort le nouvel opus de la saga Star Wars !
+Et en 3D qui plus est ! On vous rappelle que le cinéma Pathé propose des réductions 
+pour les étudiants alors n'hésitez plus, elles ne sont pas pour les chiens !
+            </description>
+            <moral>10</moral>
+            <efficacite>-10</efficacite>
+            <temps>4</temps>
+            
+		</evenement>
+        
+	</Avancee>
+	
+</evenementsarticle>

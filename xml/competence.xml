@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<competences>
+
+    <Informatique>
+
+		<lignes>
+			<colonne>2</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+            <colonne>2</colonne>
+		</lignes>
+
+        <competence>
+
+            <nom>Explication détaillée du sujet</nom>
+            <description>Expliquer au département les enjeux du projet</description>
+            <ligne>1</ligne>
+            <colonne>1</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+
+        <competence>
+
+            <nom>Connexion à internet</nom>
+            <description>Amener la connexion à internet au département informatique</description>
+            <ligne>1</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discours de motivation</nom>
+            <description>Effectuer un discourt pour motiver le département</description>
+            <ligne>2</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Machine à café</nom>
+            <description>Débloquer la machine à café dans le département</description>
+            <ligne>2</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Algorithmique</nom>
+            <description>Initiation à l'algorithmique</description>
+            <ligne>2</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Ordinateur équipé d'Intel Pentium</nom>
+            <description>Equiper le département de pc plus performant</description>
+            <ligne>2</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discour Shia Labeouf</nom>
+            <description>Diffuser la vidéo de Shia Labeouf "Just do it"</description>
+            <ligne>3</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>2,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 1/4</nom>
+            <description>Diminuer le prix du café de 25%</description>
+            <ligne>3</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,2</sommet>
+				<sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Programmation</nom>
+            <description>Initation à la programmation</description>
+            <ligne>3</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+				<sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Connexion à internet haut-débit</nom>
+            <description>Amener la connexion à internet en Haut-Débit au département</description>
+            <ligne>3</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+
+        <competence>
+
+            <nom>Visite d'un informaticien</nom>
+            <description>Visite d'un professionnel du domaine</description>
+            <ligne>4</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+
+                <sommet>3,1</sommet>
+                <sommet>3,2</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 2/4</nom>
+            <description>Diminuer le prix du café de 50%</description>
+            <ligne>4</ligne>
+            <colonne>2</colonne>
+            <moral>10</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+
+                <sommet>3,2</sommet>
+                <sommet>3,3</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Algorithmique avancée</nom>
+            <description>Appronfondissement de l'algorithmique</description>
+            <ligne>4</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+
+                <sommet>3,3</sommet>
+                <sommet>3,4</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Ordinateur équipé d'Intel i5</nom>
+            <description>Equiper le département de pc encore plus performant</description>
+            <ligne>4</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+
+                <sommet>3,4</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Réussite de l'UV LO43</nom>
+            <description>Félicitation, vous avez validé l'UV LO43</description>
+            <ligne>5</ligne>
+            <colonne>1</colonne>
+            <moral>40</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+
+                <sommet>4,1</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 3/4</nom>
+            <description>Diminuer le prix du café de 75%</description>
+            <ligne>5</ligne>
+            <colonne>2</colonne>
+            <moral>15</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+
+                <sommet>4,2</sommet>
+                <sommet>4,3</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Programmation avancée</nom>
+            <description>Approfondissement de la programmation</description>
+            <ligne>5</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+
+                <sommet>4,3</sommet>
+                <sommet>4,4</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Ordinateur quantique</nom>
+            <description>Equiper le département du dernier cri en matière de technologie</description>
+            <ligne>5</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>35</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+
+                <sommet>4,4</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 4/4</nom>
+            <description>Diminution du prix du café de 100%</description>
+            <ligne>6</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+
+                <sommet>5,2</sommet>
+                <sommet>5,3</sommet>
+
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Programmation orienté objet</nom>
+            <description>Apprentissage de le programmation orienté objet</description>
+            <ligne>6</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>50</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+
+                <sommet>5,3</sommet>
+
+            </sommetLie>
+
+        </competence>
+
+    </Informatique>
+	
+	<Energie>
+
+		<lignes>
+			<colonne>2</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>3</colonne>
+            <colonne>2</colonne>
+		</lignes>
+
+        <competence>
+
+            <nom>Explication du sujet</nom>
+            <description>Expliquer au département les enjeux du projet</description>
+            <ligne>1</ligne>
+            <colonne>1</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude des énergies renouvelables</nom>
+            <description>Etudier les enjeux des énergies renouvelables</description>
+            <ligne>1</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discours de motivation</nom>
+            <description>Effectuer un discourt pour motiver le département</description>
+            <ligne>2</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Machine à café</nom>
+            <description>Débloquer la machine à café dans le département</description>
+            <ligne>2</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Conversion de l'énergie</nom>
+            <description>Etudier les formes de convertion d'énergie</description>
+            <ligne>2</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Achat d'un panneau solaire</nom>
+            <description>Achat d'un panneau solaire pour pratiquer des tests</description>
+            <ligne>2</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Aide d'un professeur</nom>
+            <description>Intervention d'un professeur pour répondre aux questions</description>
+            <ligne>3</ligne>
+            <colonne>1</colonne>
+            <moral>15</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 1/4</nom>
+            <description>Diminuer le prix du café de 25%</description>
+            <ligne>3</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,2</sommet>
+				<sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Travail sur un concept car</nom>
+            <description>Travail sur un concept car qui pourrais répondre à certaines questions</description>
+            <ligne>3</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>20</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+				<sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Achat d'une éolienne</nom>
+            <description>Achat d'une éolienne pour étudier d'autres formes d'énergies renouvelables</description>
+            <ligne>3</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>20</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Visite d'un pionnier</nom>
+            <description>Visite d'un pionnier de l'énergie renouvelable</description>
+            <ligne>4</ligne>
+            <colonne>1</colonne>
+            <moral>20</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 2/4</nom>
+            <description>Diminuer le prix du café de 50%</description>
+            <ligne>4</ligne>
+            <colonne>2</colonne>
+            <moral>10</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,2</sommet>
+				<sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Hybridation du concept car</nom>
+            <description>Application des études sur les énergies renouvelables au concept car</description>
+            <ligne>4</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Transport de l'énergie</nom>
+            <description>Etude sur les formes de transport de l'énergie</description>
+            <ligne>4</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+				<sommet>3,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Prix pour le concept car</nom>
+            <description>Le concept car a gagné un prix pour son innovation</description>
+            <ligne>5</ligne>
+            <colonne>1</colonne>
+            <moral>40</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,1</sommet>
+				<sommet>4,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 3/4</nom>
+            <description>Diminuer le prix du café de 75%</description>
+            <ligne>5</ligne>
+            <colonne>2</colonne>
+            <moral>15</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>4,2</sommet>
+				<sommet>4,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Stockage de l'énergie</nom>
+            <description>Etude des méthodes de stockage de l'énergie</description>
+            <ligne>5</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>30</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+                <sommet>4,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 4/4</nom>
+            <description>Diminution du prix du café de 100%</description>
+            <ligne>6</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,2</sommet>
+				<sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Nouvelle forme d'énergie</nom>
+            <description>Création d'une nouvelle forme d'énergie</description>
+            <ligne>6</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>50</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+	</Energie>
+	
+	<Imsi>
+
+		<lignes>
+			<colonne>2</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>5</colonne>
+			<colonne>4</colonne>
+            <colonne>2</colonne>
+		</lignes>
+
+        <competence>
+
+            <nom>Explication du sujet</nom>
+            <description>Expliquer au département les enjeux du projet</description>
+            <ligne>1</ligne>
+            <colonne>1</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la gestion de production</nom>
+            <description>Etude de la gestion de production</description>
+            <ligne>1</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discours de motivation</nom>
+            <description>Effectuer un discourt pour motiver le département</description>
+            <ligne>2</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Machine à café</nom>
+            <description>Débloquer la machine à café dans le département</description>
+            <ligne>2</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude des matériaux</nom>
+            <description>Etude des propriétés des divers matériaux</description>
+            <ligne>2</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la logistique</nom>
+            <description>Etude des principes de la logistique</description>
+            <ligne>2</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Aide d'un professeur</nom>
+            <description>Intervention d'un professeur pour répondre aux questions</description>
+            <ligne>3</ligne>
+            <colonne>1</colonne>
+            <moral>15</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 1/4</nom>
+            <description>Diminuer le prix du café de 25%</description>
+            <ligne>3</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,2</sommet>
+				<sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude sur la mise en forme</nom>
+            <description>Etude sur la mise en forme des produits</description>
+            <ligne>3</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>CES 1/2</nom>
+            <description>Apprentissage de l'utilisation du logiciel CES</description>
+            <ligne>3</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>20</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Visite d'un site de production</nom>
+            <description>Visite d'un site de production</description>
+            <ligne>4</ligne>
+            <colonne>1</colonne>
+            <moral>20</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 2/4</nom>
+            <description>Diminuer le prix du café de 50%</description>
+            <ligne>4</ligne>
+            <colonne>2</colonne>
+            <moral>10</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,2</sommet>
+				<sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la qualité</nom>
+            <description>Etude sur la qualité des produits</description>
+            <ligne>4</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Catia 1/2</nom>
+            <description>Apprentissage de l'utilisation du logiciel Catia</description>
+            <ligne>4</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>CES 2/2</nom>
+            <description>Approfondissement de l'utilisation du logiciel CES</description>
+            <ligne>4</ligne>
+            <colonne>5</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Visite d'un professionnel</nom>
+            <description>Visite d'un professionnel du domaine</description>
+            <ligne>5</ligne>
+            <colonne>1</colonne>
+            <moral>40</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+                <sommet>4,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 3/4</nom>
+            <description>Diminuer le prix du café de 75%</description>
+            <ligne>5</ligne>
+            <colonne>2</colonne>
+            <moral>15</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>4,2</sommet>
+				<sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude sur l'amélioration</nom>
+            <description>Etude sur l'amélioration des sites de production</description>
+            <ligne>5</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>35</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Catia 2/2</nom>
+            <description>Approfondissement de l'utilisation du logiciel Catia</description>
+            <ligne>5</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>35</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 4/4</nom>
+            <description>Diminution du prix du café de 100%</description>
+            <ligne>6</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,2</sommet>
+				<sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude sur la production</nom>
+            <description>Etude sur la production et mise en place d'un systeme opérationnel</description>
+            <ligne>6</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>50</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+	</Imsi>
+	
+	<Gmc>
+
+		<lignes>
+			<colonne>2</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>5</colonne>
+            <colonne>3</colonne>
+		</lignes>
+
+        <competence>
+
+            <nom>Explication du sujet</nom>
+            <description>Expliquer au département les enjeux du projet</description>
+            <ligne>1</ligne>
+            <colonne>1</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Dessin technique</nom>
+            <description>Initiation au dessin technique</description>
+            <ligne>1</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discours de motivation</nom>
+            <description>Effectuer un discourt pour motiver le département</description>
+            <ligne>2</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Machine à café</nom>
+            <description>Débloquer la machine à café dans le département</description>
+            <ligne>2</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude des matériaux</nom>
+            <description>Etude du choix des divers matériaux</description>
+            <ligne>2</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>CAO 1/3</nom>
+            <description>Initiation à la conception assistée par ordinateur</description>
+            <ligne>2</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Visite d'un site de production</nom>
+            <description>Visite d'un site de production</description>
+            <ligne>3</ligne>
+            <colonne>1</colonne>
+            <moral>15</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>2,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 1/4</nom>
+            <description>Diminuer le prix du café de 25%</description>
+            <ligne>3</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,2</sommet>
+				<sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la statique</nom>
+            <description>Etude du principe fondamentale de la statique</description>
+            <ligne>3</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>CAO 2/3</nom>
+            <description>Approfondissement de la conception assistée par ordinateur</description>
+            <ligne>3</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>20</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Participation au Rallye</nom>
+            <description>Participation au Rallye acceptée</description>
+            <ligne>4</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 2/4</nom>
+            <description>Diminuer le prix du café de 50%</description>
+            <ligne>4</ligne>
+            <colonne>2</colonne>
+            <moral>10</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,2</sommet>
+				<sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la dynamique</nom>
+            <description>Etude de la dynamique des forces</description>
+            <ligne>4</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>30</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Achat de SolidWorks</nom>
+            <description>Achat des licences completes de SolidWorks pour continuer la CAO</description>
+            <ligne>4</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Visite d'un professionnel en mécanique</nom>
+            <description>Visite d'un professionnel en mécanique</description>
+            <ligne>5</ligne>
+            <colonne>1</colonne>
+            <moral>40</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+                <sommet>4,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 3/4</nom>
+            <description>Diminuer le prix du café de 75%</description>
+            <ligne>5</ligne>
+            <colonne>2</colonne>
+            <moral>15</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>4,2</sommet>
+				<sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la physique</nom>
+            <description>Etude de la physique générale</description>
+            <ligne>5</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>35</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude de la chimie</nom>
+            <description>Etude des bases de la chimie</description>
+            <ligne>5</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>30</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+                <sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>CAO 3/3</nom>
+            <description>Finalisation de la conception assistée par ordinateur</description>
+            <ligne>5</ligne>
+            <colonne>5</colonne>
+            <moral>0</moral>
+            <efficacite>40</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,3</sommet>
+				<sommet>4,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 4/4</nom>
+            <description>Diminution du prix du café de 100%</description>
+            <ligne>6</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,2</sommet>
+				<sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Mecanique quantique</nom>
+            <description>Initiation à la mécanique quantique</description>
+            <ligne>6</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>50</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,3</sommet>
+				<sommet>5,4</sommet>
+				<sommet>5,5</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Conception d'une voiture</nom>
+            <description>Fabrication d'un véhicule motorisé</description>
+            <ligne>6</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>45</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+				<sommet>5,5</sommet>
+            </sommetLie>
+
+        </competence>
+		
+	</Gmc>
+	
+	<Edim>
+
+		<lignes>
+			<colonne>2</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+			<colonne>4</colonne>
+            <colonne>2</colonne>
+		</lignes>
+
+        <competence>
+
+            <nom>Explication du sujet</nom>
+            <description>Expliquer au département les enjeux du projet</description>
+            <ligne>1</ligne>
+            <colonne>1</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Analyse du marché</nom>
+            <description>Initiation à l'analyse du marché</description>
+            <ligne>1</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>1</cout>
+            <sommetLie>
+                <sommet></sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Discours de motivation</nom>
+            <description>Effectuer un discourt pour motiver le département</description>
+            <ligne>2</ligne>
+            <colonne>1</colonne>
+            <moral>10</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Machine à café</nom>
+            <description>Débloquer la machine à café dans le département</description>
+            <ligne>2</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Etude des matériaux</nom>
+            <description>Etude des avantages des divers matériaux</description>
+            <ligne>2</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Salle de réalité virtuelle</nom>
+            <description>Achat d'une salle de réalité virtuelle</description>
+            <ligne>2</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>2</cout>
+            <sommetLie>
+                <sommet>1,2</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Aide d'un professeur</nom>
+            <description>Intervention d'un professeur pour répondre aux questions</description>
+            <ligne>3</ligne>
+            <colonne>1</colonne>
+            <moral>15</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 1/4</nom>
+            <description>Diminuer le prix du café de 25%</description>
+            <ligne>3</ligne>
+            <colonne>2</colonne>
+            <moral>5</moral>
+            <efficacite>5</efficacite>
+            <temps>0</temps>
+            <cout>3</cout>
+            <sommetLie>
+                <sommet>2,2</sommet>
+				<sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Optimisation</nom>
+            <description>Initiation à l'optimisation des produits</description>
+            <ligne>3</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Dessin et CAO</nom>
+            <description>Apprentissage du dessin et de la CAO</description>
+            <ligne>3</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>4</cout>
+            <sommetLie>
+                <sommet>2,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Intervention d'un designer</nom>
+            <description>Intervention d'un professionnel du design industriel</description>
+            <ligne>4</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>3,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 2/4</nom>
+            <description>Diminuer le prix du café de 50%</description>
+            <ligne>4</ligne>
+            <colonne>2</colonne>
+            <moral>10</moral>
+            <efficacite>10</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,2</sommet>
+				<sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Eco-innovation</nom>
+            <description>Explication du principe et des enjeux de l'eco-innovation</description>
+            <ligne>4</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Imprimante 3d</nom>
+            <description>Achat d'une imprimante 3d</description>
+            <ligne>4</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>5</cout>
+            <sommetLie>
+                <sommet>3,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Participation au concept car</nom>
+            <description>Participation au concept car en le designant</description>
+            <ligne>5</ligne>
+            <colonne>1</colonne>
+            <moral>35</moral>
+            <efficacite>0</efficacite>
+            <temps>0</temps>
+            <cout>7</cout>
+            <sommetLie>
+                <sommet>4,1</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 3/4</nom>
+            <description>Diminuer le prix du café de 75%</description>
+            <ligne>5</ligne>
+            <colonne>2</colonne>
+            <moral>15</moral>
+            <efficacite>15</efficacite>
+            <temps>0</temps>
+            <cout>6</cout>
+            <sommetLie>
+                <sommet>4,2</sommet>
+				<sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Qualité</nom>
+            <description>Initiation au principe de qualité des produits</description>
+            <ligne>5</ligne>
+            <colonne>3</colonne>
+            <moral>0</moral>
+            <efficacite>40</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Matériel de dessin</nom>
+            <description>Achat de nouveau matériel de dessin</description>
+            <ligne>5</ligne>
+            <colonne>4</colonne>
+            <moral>0</moral>
+            <efficacite>35</efficacite>
+            <temps>0</temps>
+            <cout>8</cout>
+            <sommetLie>
+                <sommet>4,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Café 4/4</nom>
+            <description>Diminution du prix du café de 100%</description>
+            <ligne>6</ligne>
+            <colonne>1</colonne>
+            <moral>25</moral>
+            <efficacite>25</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,2</sommet>
+				<sommet>5,3</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		<competence>
+
+            <nom>Idée du siècle</nom>
+            <description>Conception d'un nouveau produit révolutionnaire</description>
+            <ligne>6</ligne>
+            <colonne>2</colonne>
+            <moral>0</moral>
+            <efficacite>50</efficacite>
+            <temps>0</temps>
+            <cout>10</cout>
+            <sommetLie>
+                <sommet>5,3</sommet>
+				<sommet>5,4</sommet>
+            </sommetLie>
+
+        </competence>
+		
+		
+	</Edim>
+
+</competences>

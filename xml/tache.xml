@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<taches>
+	<Informatique>
+		<Facile>
+			<tache>
+				<nom>Site Web statique</nom>
+				<description>Création d'une site Web statique</description>
+				<temps>240</temps>
+				<infecte>4</infecte>
+			</tache>
+
+			<tache>
+				<nom>Réseaux sociaux</nom>
+				<description>Gestion de la communication sur les réseaux sociaux</description>
+				<temps>360</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Calculatrice</nom>
+				<description>Réalisation d'une calculatrice avec interface graphique</description>
+				<temps>240</temps>
+				<infecte>5</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Optimisation/Réparation d'ordinateurs</nom>
+				<description>Résolution de problèmes : suppression de logiciels inutiles, des virus, etc...</description>
+				<temps>260</temps>
+				<infecte>6</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Enregistrements de tests</nom>
+				<description>Enregistrements de tests dans des bases de données</description>
+				<temps>240</temps>
+				<infecte>6</infecte>
+			</tache>
+			
+		</Facile>
+		
+		<Moyenne>
+		
+			<tache>
+				<nom>Logiciel de simulation de circuits électroniques</nom>
+				<description>Développement de simulation de circuits électroniques</description>
+				<temps>280</temps>
+				<infecte>20</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Site Web dynamique</nom>
+				<description>Création d'une site Web dynamique</description>
+				<temps>300</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Optimisation/Réparation d'ordinateurs</nom>
+				<description>Résolution de problèmes : suppression de logiciels inutiles, des virus, etc...</description>
+				<temps>300</temps>
+				<infecte>18</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Traitement des enregistrements</nom>
+				<description>Traitements et analyses des enregistrements de tests</description>
+				<temps>280</temps>
+				<infecte>18</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Réseau dédié</nom>
+				<description>Mise en place d'un intranet dédié au projet</description>
+				<temps>260</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+		</Moyenne>
+		
+		<Avancee>
+		
+			<tache>
+				<nom>Scripts</nom>
+				<description>Réalisation de scripts pour automatiser des tâches</description>
+				<temps>320</temps>
+				<infecte>40</infecte>
+			</tache>
+		
+			<tache>
+				<nom>Moteur physique</nom>
+				<description>Création d'un moteur physique</description>
+				<temps>400</temps>
+				<infecte>30</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Optimisation/Réparation d'ordinateurs</nom>
+				<description>Résolution de problèmes : suppression de logiciels inutiles, des virus, etc...</description>
+				<temps>320</temps>
+				<infecte>36</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Logiciel de modélisation 3D</nom>
+				<description>Développement d'un logiciel de modélisation 3D</description>
+				<temps>400</temps>
+				<infecte>35</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Logiciel pour la production</nom>
+				<description>Développement d'un logiciel pour la production</description>
+				<temps>360</temps>
+				<infecte>33</infecte>
+			</tache>
+		
+		</Avancee>
+		
+	</Informatique>
+	
+	<Energie>
+	
+		<Facile>
+		
+			<tache>
+				<nom>Panneaux solaires</nom>
+				<description>Installation de panneaux solaires pour l'alimentation</description>
+				<temps>240</temps>
+				<infecte>7</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Moteurs à pétrole</nom>
+				<description>Création de petits moteurs fonctionnant avec du pétrole</description>
+				<temps>220</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Bureaux intelligents</nom>
+				<description>Travaux de domotique pour un ensemble de bureaux</description>
+				<temps>240</temps>
+				<infecte>9</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Labels énergétiques</nom>
+				<description>Études et attributions de labels énergétiques à des constructions, frigos, etc..</description>
+				<temps>360</temps>
+				<infecte>7</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Supervisation d'un système industriel</nom>
+				<description>Supervisation d'un système industriel</description>
+				<temps>240</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+		</Facile>
+		
+		<Moyenne>
+		
+			<tache>
+				<nom>Chauffage</nom>
+				<description>Gestion optimisée des températures dans les salles des infectés</description>
+				<temps>280</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Salle intelligente</nom>
+				<description>Travaux de domotique pour une salle</description>
+				<temps>320</temps>
+				<infecte>17</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Batteries</nom>
+				<description>Développement de batteries rechargeables</description>
+				<temps>320</temps>
+				<infecte>16</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Choix des matériaux</nom>
+				<description>Choix des matériaux pour une construction auto-suffisante énergétiquement</description>
+				<temps>360</temps>
+				<infecte>19</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Architecture bioclimatique</nom>
+				<description>Recherches d'une architecture bioclimatique pour une construction</description>
+				<temps>260</temps>
+				<infecte>19</infecte>
+			</tache>
+			
+		</Moyenne>
+			
+		<Avancee>
+		
+			<tache>
+				<nom>Machines électriques</nom>
+				<description>Automatisation de machines électriques</description>
+				<temps>360</temps>
+				<infecte>32</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Bâtiment intelligent</nom>
+				<description>Travaux de domotique pour un bâtiment intelligent</description>
+				<temps>400</temps>
+				<infecte>30</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Géothermie</nom>
+				<description>Création de pompes à chaleur géothermique</description>
+				<temps>360</temps>
+				<infecte>27</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Stockage énergie dans l'embarqué</nom>
+				<description>Travaux de stockages d'energie pour des voitures autonomes</description>
+				<temps>400</temps>
+				<infecte>48</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Vélos électriques</nom>
+				<description>Conception et réalisation de vélos électriques</description>
+				<temps>320</temps>
+				<infecte>32</infecte>
+			</tache>
+			
+		</Avancee>
+		
+	</Energie>
+	
+	<Imsi>
+		
+		<Facile>
+		
+			<tache>
+				<nom>Convoyeurs</nom>
+				<description>Optimisation et installation de convoyeur</description>
+				<temps>240</temps>
+				<infecte>7</infecte>
+			</tache>
+		
+			<tache>
+				<nom>Système logistique</nom>
+				<description>Mise en place d'un système logistique basique</description>
+				<temps>240</temps>
+				<infecte>7</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Coordinations des différents départements</nom>
+				<description>Travaux de coordinations des différents départements</description>
+				<temps>400</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Agrafages</nom>
+				<description>Travaux d'optimsation d'agrafage de calendriers et réalisation d'une machine</description>
+				<temps>240</temps>
+				<infecte>9</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Cours</nom>
+				<description>Enseignements de méthodologies de travail et d'organisation aux élèves des autres départements</description>
+				<temps>240</temps>
+				<infecte>9</infecte>
+			</tache>
+			
+		</Facile>
+		
+		<Moyenne>
+		
+			<tache>
+				<nom>Méthodologies</nom>
+				<description>Recherches de méthodologies de travail innovantes</description>
+				<temps>360</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Cellule de Production</nom>
+				<description>Mise en place d'une cellule de production moyenne</description>
+				<temps>260</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Flux d'approvisionnements</nom>
+				<description>Travaux d'amélioration de la maîtrise des flux d'approvisionnement</description>
+				<temps>280</temps>
+				<infecte>18</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Gestion des stocks</nom>
+				<description>Travaux d'amélioration de la gestion des stocks</description>
+				<temps>340</temps>
+				<infecte>14</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Perçage céramique</nom>
+				<description>Développement autour du perçage de céramique</description>
+				<temps>320</temps>
+				<infecte>22</infecte>
+			</tache>
+			
+		</Moyenne>
+			
+		<Avancee>
+		
+			<tache>
+				<nom>Optimisations</nom>
+				<description>Optimisation de la qualité et de la performance industrielle</description>
+				<temps>360</temps>
+				<infecte>30</infecte>
+			</tache>
+			
+			<tache>
+				<nom>CAO</nom>
+				<description>Conception assistée par ordinateur de vélos électriques</description>
+				<temps>340</temps>
+				<infecte>25</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Robotisation</nom>
+				<description>Conception, fabrication et programmations de robots de production</description>
+				<temps>400</temps>
+				<infecte>45</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Refroidissement</nom>
+				<description>Travaux de refroidissement cryogénique pour l'usinage des plastiques</description>
+				<temps>320</temps>
+				<infecte>35</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Outils de mesure</nom>
+				<description>Recherches pour améliorer les outils de mesure</description>
+				<temps>380</temps>
+				<infecte>39</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Fabrication d'éoliennes</nom>
+				<description>Recherches pour améliorer les outils de mesure</description>
+				<temps>380</temps>
+				<infecte>39</infecte>
+			</tache>
+			
+		</Avancee>
+		
+	</Imsi>
+	
+	<Gmc>
+		
+		<Facile>
+		
+			<tache>
+				<nom>Roulements</nom>
+				<description>Création de roues et du système adéquate</description>
+				<temps>240</temps>
+				<infecte>7</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Cours de Catia</nom>
+				<description>Donner des cours de Catia à des professionnels</description>
+				<temps>240</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Ressorts</nom>
+				<description>Recherches pour améliorer les ressorts</description>
+				<temps>260</temps>
+				<infecte>5</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Études de drones</nom>
+				<description>Réalisation de tests sur des drones et étude du fonctionnement</description>
+				<temps>220</temps>
+				<infecte>6</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Montage d'une imprimante 3D</nom>
+				<description>Montage d'une imprimante 3D</description>
+				<temps>240</temps>
+				<infecte>2</infecte>
+			</tache>
+			
+		</Facile>
+		
+		<Moyenne>
+		
+			<tache>
+				<nom>Mouvement mécanique</nom>
+				<description>Recherches du meilleur mouvement mécanique possible</description>
+				<temps>260</temps>
+				<infecte>17</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Fabrication d'éolienne</nom>
+				<description>Fabrication d'éoliennes</description>
+				<temps>280</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Horloge quantique</nom>
+				<description>Réalisation d'une horloge quantique</description>
+				<temps>260</temps>
+				<infecte>14</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Balancement</nom>
+				<description>Optimisation de balancements pour un mouvement durable</description>
+				<temps>360</temps>
+				<infecte>19</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Conception table et chaises</nom>
+				<description>Conception d'un ensemble de table et de chaises du futur</description>
+				<temps>320</temps>
+				<infecte>17</infecte>
+			</tache>
+			
+		</Moyenne>
+			
+		<Avancee>
+		
+			<tache>
+				<nom>Fabrication d'un drone</nom>
+				<description>Conception et réalisation d'un drone</description>
+				<temps>400</temps>
+				<infecte>38</infecte>
+			</tache>
+		
+			<tache>
+				<nom>Véhicule à 10 roues</nom>
+				<description>Fabrication d'un véhicule motorisé à 10 roues</description>
+				<temps>380</temps>
+				<infecte>34</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Vol</nom>
+				<description>Travaux de propulsion aéronautique</description>
+				<temps>400</temps>
+				<infecte>31</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Modélisation de robots</nom>
+				<description>Conception et Modélisation 3D de robots</description>
+				<temps>360</temps>
+				<infecte>37</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Propulsion sous-marine</nom>
+				<description>Conception et réalisation d'un sous-marin de 2 mètres</description>
+				<temps>360</temps>
+				<infecte>37</infecte>
+			</tache>
+			
+		</Avancee>
+		
+	</Gmc>
+	
+	<Edim>
+	
+		<Facile>
+		
+			<tache>
+				<nom>Analyse du Cycle de Vie</nom>
+				<description>Analyse du Cycle de Vie du matériel présent à l'UTBM</description>
+				<temps>240</temps>
+				<infecte>15</infecte>
+			</tache>
+		
+			<tache>
+				<nom>Allègement</nom>
+				<description>Allègement des matériaux pour un projet plus léger</description>
+				<temps>240</temps>
+				<infecte>7</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Études des images et des couleurs</nom>
+				<description>Réalisation de tests à propos des couleurs et des images</description>
+				<temps>240</temps>
+				<infecte>4</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Cours d'ergonomie</nom>
+				<description>Enseignement de notions d'ergonomie aux autres étudiants</description>
+				<temps>220</temps>
+				<infecte>3</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Design d'une machine à coudre</nom>
+				<description>Réalisation du design d'une machine à coudre</description>
+				<temps>220</temps>
+				<infecte>8</infecte>
+			</tache>
+			
+		</Facile>
+		
+		<Moyenne>
+		
+			<tache>
+				<nom>Ergonomie</nom>
+				<description>Travaux sur l'ergonomie nécessaire</description>
+				<temps>320</temps>
+				<infecte>19</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Simulations</nom>
+				<description>Simulations de procédés de fabrication à base de plastique</description>
+				<temps>340</temps>
+				<infecte>15</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Design d'un vélo</nom>
+				<description>Réalisation du design d'une voiture</description>
+				<temps>280</temps>
+				<infecte>28</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Conception et réalisation d'une imprimante 3D</nom>
+				<description>Conception et réalisation d'une imprimante 3D à partir d'une imprimante 3D</description>
+				<temps>360</temps>
+				<infecte>17</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Conception Assistée par Ordinateur</nom>
+				<description>Conception Assistée par Ordinateur d'un nouveau type de moteur</description>
+				<temps>360</temps>
+				<infecte>24</infecte>
+			</tache>
+			
+		</Moyenne>
+			
+		<Avancee>
+		
+			<tache>
+				<nom>Modélisation 3D de personnes</nom>
+				<description>Travaux de Modélisation 3D de personnes</description>
+				<temps>380</temps>
+				<infecte>34</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Réalité augmentée</nom>
+				<description>Travaux de réalité aumentée</description>
+				<temps>380</temps>
+				<infecte>34</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Design d'une voiture</nom>
+				<description>Réalisation du design d'une voiture</description>
+				<temps>360</temps>
+				<infecte>39</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Recherches en éco-innovation</nom>
+				<description>Travaux et recherches en éco-innovation</description>
+				<temps>400</temps>
+				<infecte>40</infecte>
+			</tache>
+			
+			<tache>
+				<nom>Allègement des robots</nom>
+				<description>Allègement des matières consitants certains robots</description>
+				<temps>400</temps>
+				<infecte>30</infecte>
+			</tache>
+			
+		</Avancee>
+		
+	</Edim>
+
+</taches>

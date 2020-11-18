@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/Modele/Evenement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Modele/EvenementAccomplissement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Modele/Jeu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Modele/Timeline.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Vue/Barre.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Vue/Coin.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Vue/Competence.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Vue/Evenement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Vue/Jeu.java" charset="UTF-8" />
+  </component>
+</project>
