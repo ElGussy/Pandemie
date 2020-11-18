@@ -1,6 +1,6 @@
 ## Pandemie
 Re-upload of an old school project.
-It is an adaptation of the board game pandemie in java.
+It is an adaptation of the board game pandemic in java.
 
 #Game rules
 <p align="center">
